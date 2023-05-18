@@ -45,4 +45,4 @@ This is a non-API related help function housed in the bot.py file that returns a
 
 ## **Remarks:**
 
-You are free to use the code as you'd like. If you are as tired as I am of having to convert between time-zones for planning activities, this bot may be of some use in alleviating that. Special thanks to [Time API](https://timeapi.io/#) for their free access and super simple and easy-to-understand documentation. 
+You are free to use the code as you'd like. If you are as tired as I am of having to convert between time-zones for planning activities, this bot may be of some use in alleviating that. Special thanks to [Time API](https://timeapi.io/#) for their free API access and super simple and easy-to-understand documentation. 
