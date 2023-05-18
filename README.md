@@ -5,7 +5,7 @@ JeSuisBaguette
 
 ##  **Project Description:**
 
-This is a discord bot which upon receiving commands, sends a channel text message with time zone information and can also help convert between time-zones at a future date.  
+This is a discord bot which, upon receiving commands, sends a channel text message with time zone information and can also help convert between time-zones at a future date.  
 
 ## **File Structure:**
 
